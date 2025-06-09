@@ -1,0 +1,10 @@
+arr=[6,2,5,3,7]
+console.log(arr)
+arr.push(120)
+console.log(arr)
+arr.pop()
+console.log(arr)
+arr.unshift(250)
+console.log(arr)
+arr.shift()
+console.log(arr)
